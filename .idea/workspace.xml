@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6526562-e483-4499-9d8f-4ded0f941e3d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Catalog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Checkmark-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Checkmark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Ckechmark-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Eye.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Macbook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Mail Icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Person.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Phone Icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Trumpet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/iPhone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kQbqkVYiZdVrCGcfPDYlacBNt0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6526562-e483-4499-9d8f-4ded0f941e3d" name="Default Changelist" comment="" />
+      <created>1605635955303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605635955303</updated>
+      <workItem from="1605635957900" duration="9377000" />
+      <workItem from="1605722627950" duration="5882000" />
+      <workItem from="1605809848119" duration="12113000" />
+      <workItem from="1605861607914" duration="24481000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1605725748131">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1605725748131" />
+  </component>
+</project>
