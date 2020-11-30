@@ -31,7 +31,6 @@ header {
     letter-spacing: 0;
     color: #08A6E4;
 }
-
 .menu_details {
     display: flex;
     margin-left: 668px;
@@ -45,14 +44,14 @@ header {
     letter-spacing: 3.28px;
     color: #A5A5A5;
     text-transform: uppercase;
-    height: 15px;
+    height: 45px;
 }
 .menu_details li:hover{
     font: normal normal bold 11px/15px Open Sans;
     color: #000000;
     cursor: pointer;
+    border-bottom:  4px solid #08A6E4;;
 }
-
 .section1 {
     width: 1627px;
     height: 842px;
@@ -63,9 +62,7 @@ header {
     flex-direction: column;
     box-shadow: 0 3px 6px #00000029;
     opacity: 1;
-
 }
-
 .section1 img {
     position: relative;
 }
@@ -77,20 +74,21 @@ h1{
     font-family: 'Raleway', sans-serif;
     margin-top: 130px;
 }
-.btn_cta
-{
+.btn_cta{
     width: 440px;
     height: 67px;
     background: #08A6E4 0 no-repeat padding-box;
     box-shadow: 5px 10px 14px #07ACE629;
     border-radius: 40px;
+    margin-top:38px ;
+}
+.btn_cta a{
+    text-decoration: none;
     text-align: center;
     font: normal normal bold 16px/22px Open Sans;
     letter-spacing: 0;
     color: #FFFFFF;
-    margin-top:38px ;
 }
-
 .section1 p{
     width: 384px;
     height: 22px;
@@ -98,7 +96,6 @@ h1{
     letter-spacing: 0;
     margin-top: 20px;
 }
-
 .section2{
     width: 1627px;
     height: 531px;
@@ -111,7 +108,6 @@ h1{
     justify-content: center;
     align-items: center;
 }
-
 h2{
     width: 714px;
     height: 42px;
@@ -129,7 +125,6 @@ h2{
     margin-top: 100px;
     margin-left: 200px;
 }
-
 .section2_column1{
     width: 116px;
     height: 140px;
@@ -138,7 +133,6 @@ h2{
     flex-direction: column;
     display: flex;
 }
-
 .section2_column2{
     width: 116px;
     height: 140px;;
@@ -147,7 +141,6 @@ h2{
     flex-direction: column;
     display: flex;
 }
-
 .section2_column3{
     width: 116px;
     height: 140px;
@@ -156,7 +149,6 @@ h2{
     flex-direction: column;
     display: flex;
 }
-
 .circle {
     width:63px;
     height: 63px;
@@ -169,14 +161,12 @@ h2{
     border-radius: 50%;
     background: #08A6E4 0 0 no-repeat padding-box;
 }
-
 .circle3{
     width:63px;
     height: 63px;
     border-radius: 50%;
     background: #55DFB4 0 0 no-repeat padding-box;
 }
-
 .circle_picture{
     display: flex;
     justify-content: center;
@@ -187,17 +177,14 @@ h2{
     position: absolute;
     margin-left: 50px;
 }
-
 .section2_column1 img {
     width: 44px;
     height: 52px;
 }
-
 .section2_column2 img {
     width: 66px;
     height: 37px;
 }
-
 .section2_column3 img {
     width: 52px;
     height: 48px;
@@ -210,7 +197,6 @@ h2{
     letter-spacing: 6px;
     margin-top: 10px;
 }
-
 .text{
     width:130px;
     height: 48px;
@@ -231,8 +217,6 @@ h2{
     align-items: center;
     flex-direction: column;
     }
-
-
 .section3_box1,.section3_box2{
     width: 1124px;
     height: 370px;
@@ -242,21 +226,17 @@ h2{
     opacity: 1;
     display: flex;
 }
-
 .section3_box2{
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
 }
-
 .section3_box1 {
     margin-top: 105px;
 }
-
 .section3_box2, .section3_box3 {
     margin-top: 30px;
 }
-
 .section3_text1,.section3_text2{
     width: 416px;
     height: 66px;
@@ -267,23 +247,19 @@ h2{
     opacity: 1;
     word-wrap: anywhere;
 }
-
 .section3_h21{
     margin-top: 91px;
     text-align: left;
     margin-left: 36px;
 }
-
 .section3_text1{
     margin-left: 35px;
     margin-top: 30px;
 }
 .section3_text2{
-
     margin-right: 20px;
     margin-top: 30px;
 }
-
 hr{ margin-top: 50px;
 }
 .section3_box1_box1 hr{
@@ -302,7 +278,6 @@ hr{ margin-top: 50px;
     position: absolute;
     margin-right: 120px;
     margin-top: 120px;
-
 }
 .section3_img{
     width:320px;
@@ -319,7 +294,6 @@ hr{ margin-top: 50px;
     opacity: 1;
     transform: matrix(0.71, 0.71, -0.71, 0.71, 0, 0);
 }
-
 .section3_picture2 img{
     width: 426px;
     height: 328px;
@@ -330,7 +304,6 @@ hr{ margin-top: 50px;
     align-items: center;
     position: relative;
 }
-
 .section3_picture2{
     display:flex;
     justify-content: center;
@@ -381,33 +354,25 @@ hr{ margin-top: 50px;
     margin-top: 98px;
     margin-right: 72px;
 }
-
 .section4 {
     width: 100%;
     height: 716px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
     opacity: 1;
-
 }
-
 .section4_title {
     width: 114px;
     height: 42px;
-
 }
 .Pricing_title{
     display: flex;
     justify-content: center;
 }
-
-
 .section4_columns{
     display: flex;
     justify-content: space-between;
 }
-
-.column_left
-{
+.column_left{
     width: 372px;
     height: 461px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -417,8 +382,7 @@ hr{ margin-top: 50px;
     margin-left: 180px;
     margin-top: 71px;
 }
-.column_center
-{
+.column_center{
     width: 405px;
     height: 500px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -428,8 +392,7 @@ hr{ margin-top: 50px;
     opacity: 1;
     margin-top: 50px;
 }
-.column_right
-{
+.column_right{
     width: 372px;
     height: 461px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -439,13 +402,11 @@ hr{ margin-top: 50px;
     margin-right: 180px;
     margin-top: 71px;
 }
-
-
-
 .column_left, .column_right {
     display: flex;
     flex-direction: column;
     align-items: center;
+    position: relative;
 }
 .column_center {
     display: flex;
@@ -453,13 +414,9 @@ hr{ margin-top: 50px;
     align-items: center;
     margin-right: 70px;
     margin-left: 70px;
+    position: relative;
 }
-
-
-
-
 .title_section4{
-
     width: 123px;
     height: 24px;
     margin-top: 34px;
@@ -468,9 +425,7 @@ hr{ margin-top: 50px;
     letter-spacing: 0px;
     color: #13253B;
     opacity: 1;
-
 }
-
 .price {
     width: 59px;
     height: 64px;
@@ -481,25 +436,19 @@ hr{ margin-top: 50px;
     opacity: 1;
     margin-top: 14px;
 }
-
 .column_center .price{
     color: #07ACE6;
 }
-
 .column_right .price{
     color: #55DFB4;
 }
-
 .checkbox{
  margin-top: 25px;
     height: 19px;
-
 }
 checkbox_offer {
     width: 200px;
 }
-
-
 label {
     text-align: center;
     font: normal normal normal 14px/41px Open Sans;
@@ -509,9 +458,7 @@ label {
     width: 150px;
     height: 19px;
 }
-
 .conditions{
-
     width: 100px;
     height: 14px;
     text-align: center;
@@ -520,7 +467,6 @@ label {
     color: #13253B;
     opacity: 1;
     margin-top: 5px;
-
 }
 
 .checkbox_offer{
@@ -528,20 +474,70 @@ label {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-
-
 }
-
 .begin{
-
     width: 150px;
     height: 50px;
     background: #EB476E 0 0 no-repeat padding-box;
     border-radius: 23px;
     opacity: 1;
-    margin-top: 50px;
+    text-align: center;
+    font: normal normal bold 13px/41px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
 }
-
+.begin a{
+    text-align: center;
+    font: normal normal bold 13px/41px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.column_center button{
+    width: 165px;
+    height: 50px;
+    background: #07ACE6 0% 0% no-repeat padding-box;
+    box-shadow: 5px 10px 14px #07ACE629;
+    border-radius: 23px;
+    opacity: 1;
+    position: absolute;
+    top: 470px;
+}
+.column_right button{
+    background: #55DFB4 0% 0% no-repeat padding-box;
+    border-radius: 23px;
+    opacity: 1;
+    position: absolute;
+    top: 430px;
+}
+.column_left button{
+    position: absolute;
+    top: 430px;
+}
+.checkbox input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.checkbox {
+    cursor: pointer;
+    display: flex;
+}
+.checkbox span {
+    width: 11px;
+    height: 11px;
+    border: 1px solid #55DFB4;
+    border-radius: 2px;
+    opacity: 1;
+    position: relative;
+    top: 15px;
+}
+label .checkbox{
+    position: absolute;
+}
 .section5 {
     width: 100%;
     height: 590px;
@@ -550,18 +546,13 @@ label {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
-
-.section5_left
-{
+.section5_left{
     width: 400px;
     height: 300px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
     opacity: 1;
-
 }
-
 #Title{
     text-align: left;
     font: normal normal normal 49px Raleway;
@@ -570,11 +561,8 @@ label {
     opacity: 1;
     width: 350px;
     height: 60px;
-
 }
-
 .section5_left span{
-
     width: 265px;
     height: 22px;
     text-align: left;
@@ -582,47 +570,31 @@ label {
     letter-spacing: 0px;
     color: #000000;
     opacity: 1;
-
-
 }
 .mail{
     background: transparent url(../assets/MailIcon.svg) 0 0 no-repeat padding-box;
     opacity: 1;
     width: 40px;
     height: 30px;
-
 }
-
-
 .call{
     background: transparent url(../assets/PhoneIcon.svg) 0 0 no-repeat padding-box;
     opacity: 1;
     width: 40px;
     height: 30px;
 }
-
-
-
-
 .contacts{
-
     display: flex;
     margin-top: 42px;
 }
-
 .contacts span{
-
-
     margin-left: 15px;
 }
-
-.section5_right
-{
+.section5_right{
     width: 300px;
     height: 300px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
     opacity: 1;
-
 }
 .name, .email {
     width: 48px;
@@ -633,7 +605,6 @@ label {
     color: #08A6E4;
     opacity: 1;
     text-transform: uppercase;
-
 }
 input {
     outline: none;
@@ -643,10 +614,7 @@ input {
 input[type=checkbox] {
     display: none;
 }
-
-
 .id-checkbox label {
-
     color: #B2B2B2;
     display: flex;
     width: 405px;
@@ -670,7 +638,9 @@ input[type=checkbox]:checked + label:before {
     background: url("../assets/Checkmark.svg") no-repeat center;
     background-size: contain;
 }
-
+.id-checkbox{
+    position: relative;
+}
 .Send{
     background: #08A6E4 0 0 no-repeat padding-box;
     box-shadow: 5px 10px 14px #07ACE629;
@@ -683,9 +653,8 @@ input[type=checkbox]:checked + label:before {
     letter-spacing: 0;
     color: #FFFFFF;
     margin-top: 20px;
-
-
-
+    position: absolute;
+    left: 170px;
 }
 footer{
     width: 1626px;
@@ -694,7 +663,6 @@ footer{
     box-shadow: 0 -5px 40px #00000029;
     opacity: 1;
     display: flex;
-
 }
 .logo2{
     width: 115px;
@@ -706,11 +674,8 @@ footer{
     letter-spacing: 0;
     color: #08A6E4;
     opacity: 1;
-
-
 }
 .trade_mark{
-
     width: 220px;
     height: 20px;
     text-align: left;
@@ -721,7 +686,6 @@ footer{
     opacity: 1;
     margin-top: 7px;
 }
-
 .twitter{
     width: 24px;
     height: 24px;
@@ -731,9 +695,7 @@ footer{
     margin-bottom: 30px;
     margin-right: 20px;
     margin-left: auto;
-
 }
-
 .facebook{
     width: 24px;
     height: 24px;
@@ -742,12 +704,9 @@ footer{
     margin-top: 35px;
     margin-bottom: 30px;
     margin-right: 136px;
-
 }
-
 .social_media{
     display:flex;
     width: 200px;
     margin-left: auto;
-
 }
