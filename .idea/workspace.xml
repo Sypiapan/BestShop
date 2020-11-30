@@ -11,11 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6526562-e483-4499-9d8f-4ded0f941e3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/MailIcon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/PhoneIcon.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Mail Icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Phone Icon.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -70,6 +66,7 @@
       <workItem from="1606424270856" duration="3660000" />
       <workItem from="1606579419159" duration="9587000" />
       <workItem from="1606640664290" duration="15200000" />
+      <workItem from="1606757557002" duration="10376000" />
     </task>
     <servers />
   </component>
