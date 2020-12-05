@@ -12,8 +12,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d6526562-e483-4499-9d8f-4ded0f941e3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Car-sharing/css/styles.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Prework/WAR_FER_W_34_Sass_RWD/01_Dzien_1/03_Partials_i_importowanie/01_Zadania/index.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -66,7 +64,8 @@
       <workItem from="1606424270856" duration="3660000" />
       <workItem from="1606579419159" duration="9587000" />
       <workItem from="1606640664290" duration="15200000" />
-      <workItem from="1606757557002" duration="10376000" />
+      <workItem from="1606757557002" duration="11238000" />
+      <workItem from="1607106867324" duration="675000" />
     </task>
     <servers />
   </component>
@@ -89,9 +88,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1606678389311">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1607109095173">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1606678389311" />
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1607109095173" />
   </component>
 </project>
